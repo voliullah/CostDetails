@@ -1,0 +1,29 @@
+{
+  "name": "projecttair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.6",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voliullah/CostDetails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/voliullah/CostDetails/issues"
+  },
+  "homepage": "https://github.com/voliullah/CostDetails#readme"
+}
